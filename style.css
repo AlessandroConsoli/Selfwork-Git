@@ -1,0 +1,14 @@
+.titolone{
+    display: flex;
+    justify-content: center;
+}
+
+
+h1{
+    color: chocolate;
+}
+
+.logoGit{
+    margin-top: 10px;
+    height: 50px;
+}
